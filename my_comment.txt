@@ -1,0 +1,2 @@
+This tutorial is very easy to understand: https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/git.html
+Thanks to the author!
